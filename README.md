@@ -198,10 +198,10 @@ DATE 12-15-2024
 
 ## menjalankan server
 ### find server
-![Screenshot 2024-12-15 114128](https://github.com/user-attachments/assets/d1b17003-1c34-48da-a9b6-dbe8c190905b) 
+![Screenshot 2024-12-15 114351](https://github.com/user-attachments/assets/945af6f5-ce1e-4ab5-a576-8b7a84b67f42)
 
 ### add ip lokal add
-![Screenshot 2024-12-15 114543](https://github.com/user-attachments/assets/f89f7205-15c5-433f-b9ba-d95b30c504f7)
+![Screenshot 2024-12-15 114128](https://github.com/user-attachments/assets/d1b17003-1c34-48da-a9b6-dbe8c190905b) 
 
 ### ingame
-![Screenshot 2024-12-15 114351](https://github.com/user-attachments/assets/945af6f5-ce1e-4ab5-a576-8b7a84b67f42)
+![Screenshot 2024-12-15 114543](https://github.com/user-attachments/assets/f89f7205-15c5-433f-b9ba-d95b30c504f7)
