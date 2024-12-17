@@ -204,7 +204,9 @@ DATE 12-15-2024
 ## menjalankan server
 ### find server
 
-![Screenshot 2024-12-18 000242](https://github.com/user-attachments/assets/d877c117-d048-4dc5-97ad-593306919f49)
+
+![Screenshot 2024-12-15 114351](https://github.com/user-attachments/assets/f5beba5b-90bf-4d0c-8eee-13a0bba6e678)
+
 
 ### add ip lokal add
 
