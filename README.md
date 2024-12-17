@@ -186,22 +186,31 @@ Firewall digunakan untuk melindungi server dari akses yang tidak diinginkan.
 
 ### **Menguji Server**
 1. **Jalankan Server**:
-   ```bash
-   ./hlds_run -game cstrike +maxplayers 16 +map de_dust2 -port 27015
    ```
-2. **Akses Server**:
+   apt-get install screen
+   ```
+   ```
+   screen -a ./hlds_run -game cstrike +ip 192.168.100.81 +maxplayers 12 +map de_dust2
+   ```
+   ![Screenshot 2024-12-18 000435](https://github.com/user-attachments/assets/5e3ff0e5-212d-4ae9-b538-156ee1783a38)
+
+3. **Akses Server**:
    - Gunakan client Counter-Strike 1.6 dan masukkan IP server.
 
----
+   ![Screenshot 2024-12-18 000351](https://github.com/user-attachments/assets/a9c8b05c-f4a7-4da4-82bc-38cb0cf26e40)
 
 DATE 12-15-2024
 
 ## menjalankan server
 ### find server
-![Screenshot 2024-12-15 114351](https://github.com/user-attachments/assets/945af6f5-ce1e-4ab5-a576-8b7a84b67f42)
+
+![Screenshot 2024-12-18 000242](https://github.com/user-attachments/assets/d877c117-d048-4dc5-97ad-593306919f49)
 
 ### add ip lokal add
-![Screenshot 2024-12-15 114128](https://github.com/user-attachments/assets/d1b17003-1c34-48da-a9b6-dbe8c190905b) 
+
+![Screenshot 2024-12-18 000242](https://github.com/user-attachments/assets/1583f949-4d9e-4abd-a266-2ed848a7eb88)
+
 
 ### ingame
-![Screenshot 2024-12-15 114543](https://github.com/user-attachments/assets/f89f7205-15c5-433f-b9ba-d95b30c504f7)
+
+![Screenshot 2024-12-18 000145](https://github.com/user-attachments/assets/334b30a3-c4f4-4647-85c1-24934e4ac62a)
